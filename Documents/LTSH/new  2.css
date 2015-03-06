@@ -1,0 +1,20 @@
+#six { font-family: Arial;
+      color: green;
+      font-style:bold;
+      font-size:20px;
+      text-align: left;
+      text-indent:40px;
+      text-transform: capitalize;
+  }
+#two {text-indent: 50px;
+  	  font-style: bold italic;
+  	  color:blue;
+  	  
+ }
+#four {text-decoration: none;
+       color:red;
+       text-align: left;
+       text-indent:60px;
+       text-transform:capitalize;
+       font-style: bold;
+ }
